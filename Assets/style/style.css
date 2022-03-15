@@ -147,3 +147,143 @@ main {
 #paragraf1 {
   margin-bottom: 20px;
 }
+
+main{
+  width: 100%;
+  background-color: white;
+}
+.main-title{
+    padding:180px 0 200px 0px; 
+    background-image: url(../Image/Gnsampah.png);
+    background-repeat: no-repeat; 
+    background-size:100% 100% cover;
+    text-align: left;
+}
+.semboyan {
+  display: inline-block;
+  margin: 0px 50px;
+}
+.semboyan h1 {
+  margin: 10px 0px;
+  letter-spacing: 2px;
+  color: #c53510;
+}
+.menu-icon{
+    float:right;
+    color:#C53510;
+    padding: 25px 20px;
+    display: none !important;
+}
+.menu-icon h1{
+    font-size:20px;
+    float:left;
+    margin:-3px 10px;
+    color:#C53510;
+}
+.paragraf1 {
+  padding: 20px;
+  margin: 0 auto;
+  letter-spacing: 3px;
+  font-size: 20px;
+  font-family: montserrat;
+  font-weight: 1000;
+}
+
+.heading {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #f5f5f5;
+  border-radius: 15px;
+  margin: 20px 0px;
+}
+.info-left {
+  text-align: justify;
+  flex: 50%;
+}
+.info-left h1 {
+  text-align: center;
+}
+.info-right {
+  flex: 50%;
+}
+.info-right img {
+  width: 450px;
+  height: 450px;
+  border-radius: 5px;
+  margin: 60px 50px;
+}
+.heading h1 {
+  padding-top: 20px;
+  margin-top: 35px;
+  margin-bottom: 20px;
+  letter-spacing: 5px;
+}
+
+#paragraf1 {
+  margin-bottom: 20px;
+}
+
+.main-content {
+  text-align: center;
+}
+.heading2 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+  font-weight: normal;
+  background-color: rgba(197, 53, 16, 0.9);
+  border-radius: 15px;
+}
+.content-wrapper {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+.content-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btn {
+  padding: 12px 0px;
+  color: white;
+  display: block;
+  border-radius: 10px;
+  margin: 0px auto;
+}
+.organik {
+  background-color: #c53510;
+  width: 150px;
+}
+.anorganik {
+  background-color: #c53510;
+  width: 150px;
+}
+.B3 {
+  background-color: #c53510;
+  width: 150px;
+}
+.padat {
+  background-color: #c53510;
+  width: 150px;
+}
+
+.content-icon {
+  text-align: center;
+  width: 200px;
+  margin: 0px 10px;
+}
+.content-icon img {
+  height: 200px;
+  width: 200px;
+  border: 1px solid #c53510;
+  border-radius: 10px;
+}
+.content-icon p {
+  margin-top: 10px;
+}
+.organik {
+  display: inline-block;
+}
